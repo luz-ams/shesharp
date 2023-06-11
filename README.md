@@ -22,11 +22,11 @@ To remove gender-bias, the App will add a filter to the actual person being inte
 - We had short time to code! So of course tons of improvements can be done
 
 ## Screenshots
-![Harper](demo/h_Harper.png)
-![Harper2](demo/h_Harper_2.png)
-![Bailey](demo/h_Bailey.png)
-![Riley](demo/h_Riley.png)
-![Scout](demo/h_Scout.png)
+![Harper](demo/s_Harper.png)
+![Harper2](demo/s_Harper_2.png)
+![Bailey](demo/s_Bailey.png)
+![Riley](demo/s_Riley.png)
+![Scout](demo/s_Scout.png)
 
 
 ## Video - GIF
