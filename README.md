@@ -30,4 +30,4 @@ To remove gender-bias, the App will add a filter to the actual person being inte
 
 
 ## Video - GIF
-![Video](demo/final_vid.gif)
+![Video](demo/final_video.gif)
