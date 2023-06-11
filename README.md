@@ -23,7 +23,7 @@ To remove gender-bias, the App will add a filter to the actual person being inte
 
 ## Screenshots
 ![Harper](demo/s_Harper.png)
-![Harper2](demo/s_Harper_2.png)
+![Harper2](demo/s_Harper_3.png)
 ![Bailey](demo/s_Bailey.png)
 ![Riley](demo/s_Riley.png)
 ![Scout](demo/s_Scout.png)
