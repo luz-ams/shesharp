@@ -29,8 +29,5 @@ To remove gender-bias, the App will add a filter to the actual person being inte
 ![Scout](demo/h_Scout.png)
 
 
-## Video - MOV
-![Video](demo/final_mov.mov)
-
 ## Video - GIF
 ![Video](demo/final_vid.gif)
