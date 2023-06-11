@@ -18,5 +18,16 @@ To remove gender-bias, the App will add a filter to the actual person being inte
 
 I've used **Xcode Version 15.0 beta**
 
-## Video
-![Video](final_vid.gif)
+## Screenshots
+![Harper](demo/h_Harper.png)
+![Harper2](demo/h_Harper_2.png)
+![Bailey](demo/h_Bailey.png)
+![Riley](demo/h_Riley.png)
+![Scout](demo/h_Scout.png)
+
+
+## Video - MOV
+![Video](demo/final_mov.mov)
+
+## Video - GIF
+![Video](demo/final_vid.gif)
