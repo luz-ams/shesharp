@@ -2,7 +2,7 @@
 //  hackathonTests.swift
 //  hackathonTests
 //
-//  Created by Luz Racca on 10/06/2023.
+//  Created by Luz on 10/06/2023.
 //
 
 import XCTest

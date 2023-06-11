@@ -2,7 +2,7 @@
 //  CurriculumsLocalAPI.swift
 //  hackathon
 //
-//  Created by Luz Racca on 10/06/2023.
+//  Created by Luz on 10/06/2023.
 //
 
 import Foundation
@@ -19,7 +19,7 @@ extension Curriculum {
     static let luz: Curriculum = {
         Curriculum(
             name: "Luz",
-            surname: "Racca",
+            surname: "Doe",
             nickname: "Bailey",
             imageURL: "kitten",
             skills: [

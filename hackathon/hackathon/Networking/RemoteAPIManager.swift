@@ -2,7 +2,7 @@
 //  RemoteAPIManager.swift
 //  hackathon
 //
-//  Created by Luz Racca on 10/06/2023.
+//  Created by Luz on 10/06/2023.
 //
 
 import Foundation
