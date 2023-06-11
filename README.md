@@ -1,4 +1,6 @@
 # The challenge
+By: SheSharp https://www.shesharp.co/hackathon-2023 
+
 **Unleash your creativity and build something amazing with job postings data and APIs 👩‍💻✨**
 
 Let’s explore together the potential of job postings data and APIs to craft creative and empowering projects!
@@ -8,7 +10,7 @@ As part of this Hackathon Coding Jam, we will give you access to job postings AP
 The job posting data and APIs to be used during the hackathon is kindly provided by **[SourceStack](https://sourcestack.co/).**
 
 # The proposal
-# Hire Meow
+## Hire Meow
 
 The project is an App for recruiters who can FaceTime with their candidates. While the candidate is on the call, a summary of the current jobOpening and their matching skills will show-up in the screen. 
 
