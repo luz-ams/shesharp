@@ -14,7 +14,7 @@ protocol RemoteApiManaging {
 class RemoteAPIManager: RemoteApiManaging {
     enum Constants {
         static let apiKeyHeader = "X-API-KEY"
-        static let apiKey = "qUGz0iShhT7rSOiqm3wLMaC2ucVzkOxF979Y0Bh2"
+        static let apiKey = "FILL_IN_WITH_API_KEY"
     }
     
     func makeRESTCall(url: URL, completion: @escaping (Result<Data, Error>) -> Void) {
@@ -30,7 +30,7 @@ class RemoteAPIManager: RemoteApiManaging {
             
             if let data = data {
                 completion(.success(data))
-//                _ = data.logAPI()
+                _ = data.logAPI()
             } else {
                 let error = NSError(domain: "com.example.app", code: 0, userInfo: [NSLocalizedDescriptionKey: "No data received"])
                 completion(.failure(error))
