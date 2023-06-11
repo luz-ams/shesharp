@@ -16,7 +16,7 @@ The project is an App for recruiters who can FaceTime with their candidates. Whi
 
 To remove gender-bias, the App will add a filter to the actual person being interviewed. The filters are cute little kittens! The name and surname of the candidates are hidden and only a nickname will show.
 
-## Hire Meow
+## Notes
 - I've used **Xcode Version 15.0 beta**
 - The API wasn't reachable (limit's exeeded) so at some point we switched to use a local JSON. Both approaches are left in the code
 - We had short time to code! So of course tons of improvements can be done
